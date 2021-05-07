@@ -6,7 +6,7 @@
 // 每个账号 token 是一个 json，示例如下
 // {"farm_jstoken":"f99f415617a17dc39c9cd2780a0369d8","timestamp":"1619517128574","phoneid":"1f1e119884367e0a"}
 let JxncTokens = [
-  '{"farm_jstoken":"91a8e4d854cced592cf630666022582a","timestamp":"1620304788306","phoneid":"1f1e119884367e0a"}',//账号一的京喜农场token
+  '{"farm_jstoken":"91a8e4d854cced592cf630666022582a","timestamp":"1620400610797","phoneid":"1f1e119884367e0a"}',//账号一的京喜农场token
   '{"farm_jstoken":"2e8771ee1b8119f2a574cd9a72c5a414","timestamp":"1620306088096","phoneid":"1f1e119884367e0a"}',//账号二的京喜农场token
   '{"farm_jstoken":"f99f415617a17dc39c9cd2780a0369d8","timestamp":"1619517128574","phoneid":"1f1e119884367e0a"}',//账号三的京喜农场token
   '{"farm_jstoken":"82dc654e2789fdd5a20358787942ce70","timestamp":"1620304290173","phoneid":"1f1e119884367e0a"}',//账号四的京喜农场token
